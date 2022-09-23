@@ -1,3 +1,7 @@
+![istockphoto-1258141375-612x612](https://user-images.githubusercontent.com/89026851/192048565-f29931eb-0adc-401b-8120-0129c34ebe79.jpg)
+
+
+
 # Airline-Passengers-Time-series-analyais-ARIMA-vs-SARIMA
 
 # Problem Statement
